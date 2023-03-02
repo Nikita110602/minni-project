@@ -1,0 +1,72 @@
+
+  
+  .our img{
+    padding-right: 55%;
+    width: 80%;
+    height: 300px;
+    padding-top: 5%;
+    
+  }
+  .our h2{
+    text-align: center;
+    color: black;
+  }
+  .our{
+    width: 90%;
+    text-align: center;
+    padding-top: 30px;
+  }
+  .our table{
+    padding-left: 70px;
+    width: 100%;
+    border-collapse: separate;
+    }
+    .places img{
+        width: 200px;
+        height: 200px;
+        }
+        .places h2{
+        text-align: center;
+        font-size: 40px;
+        color: black;
+        }
+        .places p{
+        color: black;
+        }
+        .places table{
+        padding-left: 40px;
+        }
+        
+        .places td{
+        padding: 70px;
+        }
+        .header{
+            position: fixed;
+            top:0; left:0; right:0;
+            z-index: 1000;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 0.8rem 9%;
+            background: #fff;
+            box-shadow: var(--box-shadow);
+        }
+        .header .navbar a{
+            font-size: 1.1rem;
+            margin:0 1rem;
+            color: #3A8891;
+        }
+        .header .logo{
+            font-size: 2rem;
+            padding-right: 2rem;
+            font-weight: bolder;
+            color: #3A8891;
+            margin: 0;
+          }
+          .header .navbar a{
+            font-size: 1.1rem;
+            margin:0 1rem;
+            color: #3A8891;
+          }
+        
+    
